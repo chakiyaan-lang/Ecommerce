@@ -1,0 +1,16 @@
+streamlit
+pandas
+plotly
+bcrypt
+python-dotenv
+openpyxl
+reportlab
+Pillow
+requests
+streamlit-option-menu
+streamlit-folium
+folium
+geopy
+scikit-learn
+numpy
+joblib
